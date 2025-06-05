@@ -214,7 +214,7 @@ def plot_results(susceptible_counts, exposed_counts, infected_counts, recovered_
     plt.show()
 
 # Step 6: Run the Real-Time Visualization
-model_for_visual = Model(width=20, height=20, num_agents=400, vaccination_rate=0.8)
+model_for_visual = Model(width=20, height=20, num_agents=400, vaccination_rate=0.5)
 plt.figure(figsize=(8, 8))
 
 for _ in range(100):
@@ -224,7 +224,7 @@ for _ in range(100):
 plt.show()
 
 # Step 7: Plot the SIR Curve with Exposed and Vaccinated
-model_for_data = Model(width=80, height=85, num_agents=7000, vaccination_rate=0.95)
+model_for_data = Model(width=80, height=85, num_agents=7000, vaccination_rate=0.5)
 num_steps = 500
 susceptible_counts, exposed_counts, infected_counts, recovered_counts, vaccinated_counts = run_simulation(model_for_data, num_steps)
 plot_results(susceptible_counts, exposed_counts, infected_counts, recovered_counts, vaccinated_counts)
