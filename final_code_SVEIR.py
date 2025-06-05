@@ -154,6 +154,7 @@ plt.xlabel("Days")
 plt.ylabel("Cases")
 plt.grid()
 plt.tight_layout()
+plt.legend(fontsize=14)
 plt.show()
 
 
