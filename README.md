@@ -12,7 +12,7 @@ Modeling Measles Outbreak Dynamics and the Impact of Vaccination: From Compartme
 - [simulation_400_0.5.gif](https://github.com/mbucheg/BIO-394-Measles-Project/blob/main/simulation_400_0.5.gif)
 - [simulation_400_0.gif](https://github.com/mbucheg/BIO-394-Measles-Project/blob/main/simulation_400_0.gif)
 
-## Demographics Code for the introduction:
+## Demographics Code for the Introduction:
 - [states_geo.py](https://github.com/mbucheg/BIO-394-Measles-Project/blob/main/states_geo.py)
 - [states_measles.py](https://github.com/mbucheg/BIO-394-Measles-Project/blob/main/states_measles.py)
 - [cases_usa.py](https://github.com/mbucheg/BIO-394-Measles-Project/blob/main/cases_usa.py)
