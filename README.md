@@ -16,7 +16,7 @@ Modeling Measles Outbreak Dynamics and the Impact of Vaccination: From Compartme
 - [states_geo.py](https://github.com/mbucheg/BIO-394-Measles-Project/blob/main/states_geo.py)
 - [states_measles.py](https://github.com/mbucheg/BIO-394-Measles-Project/blob/main/states_measles.py)
 - [cases_usa.py](https://github.com/mbucheg/BIO-394-Measles-Project/blob/main/cases_usa.py)
-with the following excel files and shapefiles:
+- with the following excel files and shapefiles:
 - [cases_states2504.csv](https://github.com/mbucheg/BIO-394-Measles-Project/blob/main/cases_states2504.csv)
 - [County_Boundaries.shp](https://github.com/mbucheg/BIO-394-Measles-Project/blob/main/County_Boundaries.shp)
 - [texas2.csv](https://github.com/mbucheg/BIO-394-Measles-Project/blob/main/texas2.csv)
